@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T18:07:27.425Z",
+  "updatedAt": "2026-11-23T21:28:10.544Z",
   "events": [
     {
-      "id": "2027-01-12-other-70Eew81r",
+      "id": "2027-01-26-other-70Eew81r",
       "title": "for open sessions. Capacity: Open sessions are limited to 50 participants, whether virtual or in person. REGISTER & PAY:",
       "type": "other",
-      "dateStart": "2027-01-12",
-      "dateEnd": "2027-01-12",
+      "dateStart": "2027-01-26",
+      "dateEnd": "2027-01-26",
       "format": "virtual",
       "city": null,
       "venue": null,

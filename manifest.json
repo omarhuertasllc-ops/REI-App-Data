@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T18:07:27.425Z",
+  "updatedAt": "2026-11-23T21:28:10.544Z",
   "files": [
     {
       "id": "events",
       "url": "https://raw.githubusercontent.com/omarhuertasllc-ops/REI-App-Data/main/events.json",
-      "updatedAt": "2026-11-18T18:07:27.425Z",
-      "sha256": "669e36c5002969f1613ea22d1ffb7d76d1f321099aff0bcf9cf892fe1eba7b56"
+      "updatedAt": "2026-11-23T21:28:10.544Z",
+      "sha256": "858642196361af16fc252be6f1fb52b04cc3bd2f4bc6a8f8c4035da14fb5cf07"
     },
     {
       "id": "offerings",
